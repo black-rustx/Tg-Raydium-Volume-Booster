@@ -5,6 +5,19 @@
 
 This bot automates token volume generation on the **Raydium DEX** through Telegram. It uses multiple wallets to simulate organic trading volume by placing buy and sell orders with custom parameters, random delays, and slippage adjustments. It’s perfect for increasing liquidity and token market activity.
 
+---
+
+## 📹 **Demo Video**
+
+You can view a demonstration of how to use the **Raydium Volume Bot-v1** on Telegram below:
+
+
+https://github.com/user-attachments/assets/700e3517-14a4-482c-8d17-61349ce143b3
+
+Click the image above to watch the video.
+
+---
+
 ## 📚 Table of Contents
 
 - [Features](#-features)
@@ -146,32 +159,7 @@ Happy trading!
 
 Telegram:  [@g0drlc](https://t.me/g0drlc)
 
----
 
-## 📹 **Demo Video**
 
-You can view a demonstration of how to use the **Raydium Volume Bot-v1** on Telegram below:
-
-[![Raydium Volume Bot-v1 Demo](https://gold-improved-panda-991.mypinata.cloud/ipfs/QmT5VuuYT8fJXHCmWJjbM3rEPe7kxCW9VkR6Vm7sBL19Bd)
-
-Click the image above to watch the video.
-
----
-
-### **Adding a Video to the README**
-
-1. **Upload the video**: If the video is hosted on a platform like YouTube or Vimeo, just use the embedded URL.
-   
-2. **Embed the video**: For a YouTube video, use the following Markdown syntax:
-   
-   ```markdown
-   [![Raydium Volume Bot-v1 Demo](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
-   ```
-
-   Replace `your-video-id` with the ID of your YouTube video.
-
-Alternatively, if the video is stored locally, you can upload it to your repository and use the link directly.
-
----
 
 Let me know if you need further adjustments!
