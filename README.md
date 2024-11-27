@@ -41,8 +41,8 @@ This bot automates token volume generation on the **Raydium DEX** through Telegr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/RaydiumVolumeBot-v1.git
-   cd RaydiumVolumeBot-v1
+   git clone https://github.com/your-username/Tg-Raydium-Volume-Booster-v1.git
+   cd Tg-Raydium-Volume-Booster-v1
    ```
 
 2. Install dependencies:
